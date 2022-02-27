@@ -8,7 +8,7 @@ export default function IndexRouter() {
       <Switch>
         <Route path='/login' component={Login}/>
         <Route path='/NewsSanBox' component={NewsSanBox}/>
-        </Switch>
+      </Switch>
     </Router>
   )
 }
